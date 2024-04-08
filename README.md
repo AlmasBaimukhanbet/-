@@ -1,0 +1,2 @@
+Отчет создан на базе готовых данных некой компании, где путем необходимых корректировок по исходному файлу был создан отчет по основным показателям. Этот отчет является финальным отчетом пройденного блока POWER BI в рамках курса Аналитик данных.
+The report was created based on ready-made data from a certain company, where, through the necessary adjustments to the source file, a report was made on the main indicators. This report is the final report of the completed POWER BI block as part of the Data Analyst course
